@@ -2,3 +2,5 @@ flywire-network-analysis/
 .venv/
 __pycache__/
 .env
+start_flywire.sh
+analysis/
